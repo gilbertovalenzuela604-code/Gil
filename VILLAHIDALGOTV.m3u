@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Duartegame/TV-TDT/refs/heads/main/epg.xml"
+
+#PLAYLIST: VILLAHIDALGOTV
+#DESCRIPTION: Por Ing. Gilberto
+
+#EXTINF:-1 group-title="MEXICO",Canal 5 | VILLAHIDALGOTV
+https://raw.githubusercontent.com/Duartegame/TV-TDT/refs/heads/main/Canales/5.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Azteca 7 | VILLAHIDALGOTV
+https://raw.githubusercontent.com/Duartegame/TV-TDT/refs/heads/main/Canales/azteca7.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Las Estrellas | VILLAHIDALGOTV
+https://raw.githubusercontent.com/Duartegame/TV-TDT/refs/heads/main/Canales/lasestrellas.m3u8
