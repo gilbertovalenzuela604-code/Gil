@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#PLAYLIST: VILLAHIDALGOTV PREMIUM
+#DESCRIPTION: Por Ing. Gilberto | México + Deportes + Películas + Infantil + Música
+
+#EXTINF:-1 group-title="MEXICO",Las Estrellas | VILLAHIDALGOTV
+https://iptv-org.github.io/iptv/channels/mx/LasEstrellas.mx.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Canal 5 | VILLAHIDALGOTV
+https://iptv-org.github.io/iptv/channels/mx/Canal5.mx.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Azteca 7 | VILLAHIDALGOTV
+https://iptv-org.github.io/iptv/channels/mx/Azteca7.mx.m3u8
+
+#EXTINF:-1 group-title="PELICULAS",Pluto TV Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",Pluto Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f0008dd3b57/master.m3u8
